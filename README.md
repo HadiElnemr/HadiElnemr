@@ -1,4 +1,4 @@
-[//]: # ![](https://komarev.com/ghpvc/?username=HadiElnemr)
+[comment]: <> ![](https://komarev.com/ghpvc/?username=HadiElnemr)
 #### Hello there, 
 I am **_Hadi Elnemr_**,
 
@@ -26,6 +26,6 @@ My Website [**http://hadielnemr.github.io/**](http://hadielnemr.github.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiElnemr&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[//]: # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiElnemr&langs_count=10&hide=css,makefile,html,rich%20text%20format,jupyter%20notebook,javascript,vhdl&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiElnemr&langs_count=10&hide=css,makefile,html,rich%20text%20format,jupyter%20notebook,javascript,vhdl&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[//]: # [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HadiElnemr&theme=vision-friendly-dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HadiElnemr&theme=vision-friendly-dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
