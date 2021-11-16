@@ -3,17 +3,20 @@ I am **_Hadi Elnemr_**,
 
 a **Mechatronics Engineering** student at the **German University in Cairo** (GUC) (To graduate on June 2023 isA).
 
-I am **interested** in Machine Learning, Robotics, ROS, Automation and Control.
+I am **interested** in Autonomous Vehicles Path Planning, Guidance and Control.
 
-* I am currently learning **ML** and **Embedded Systems**.
+I have **experience** with Machine Learning, Embedded Systems and Microcontrollers (ATMega, Raspberry Pi, ESP, Arduino), Robotics, Communication Protocols, MAVLink, Robot Operating System 
+
+* I am currently learning **Basics of AVs Planning and Control**.
 
 **Skills**:
-* Coding
 * Problem Solving (Competitive Programming)
-* Mathematics
-* Teaching
 * Quick learning
-* Linux user
+* Logical Thinking
+* Teaching
+* Linux
+* Modeling
+
 
 Please feel free to **contact** me for any projects suggestions or any advices on: 
 * [**LinkedIn**](https://www.linkedin.com/in/hadi-elnemr/)
