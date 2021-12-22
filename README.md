@@ -3,9 +3,9 @@ I am **_Hadi Elnemr_**,
 
 a **Mechatronics Engineering** student at the **German University in Cairo** (GUC) (To graduate on June 2023 isA).
 
-I am **interested** in Autonomous Vehicles Path Planning, Guidance and Control.
+I am **interested** in Autonomous Vehicles, Control and Robotics.
 
-I have **experience** with Machine Learning, Embedded Systems and Microcontrollers (ATMega, Raspberry Pi, ESP, Arduino), Robotics, Communication Protocols, MAVLink, Robot Operating System 
+I have **experience** in Machine Learning, Embedded Systems and Microcontrollers (ATMega, Raspberry Pi, ESP, Arduino), Robotics, Communication Protocols, MAVLink, Robot Operating System 
 
 * I am currently learning **Basics of AVs Planning and Control**.
 
