@@ -7,7 +7,7 @@ I am **interested** in Autonomous Vehicles, Control and Robotics.
 
 I have **experience** in Machine Learning, Embedded Systems and Microcontrollers (ATMega, Raspberry Pi, ESP, Arduino), Robotics, Communication Protocols, MAVLink, Robot Operating System 
 
-* I am currently learning **Basics of AVs Planning and Control**.
+* I am currently learning **Autonomous Vehicles Motion Planning, Communication and Control**.
 
 **Skills**:
 * Problem Solving (Competitive Programming)
