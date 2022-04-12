@@ -3,7 +3,7 @@ I am **_Hadi Elnemr_**,
 
 a **Mechatronics Engineering** student at the [**German University in Cairo**](https://www.guc.edu.eg/) (GUC) (To graduate on June 2023 isA), doing my bachelor project and thesis at [**Rheinisch-Westfälische Technische Hochschule Aachen**](https://www.rwth-aachen.de) (RWTH Aachen) (March - September 2022).
 
-My bachelor topic is related to Lane Based Map-Matching for Autonomous Vehicles under the supervision of [MSc. Simon Schäfer](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:schaefer) and [Dr.-Ing. Bassam Alrifaee](https://embedded.rwth-aachen.de/doku.php?id=en:lehrstuhl:mitarbeiter:alrifaee) at the [Cyber-Physical Mobility Group](https://embedded.rwth-aachen.de/doku.php?id=en:forschung:mobility).
+My bachelor thesis topic is **Lane-level Map Matching Algorithm for Model-scale Vehicles** and is done under the supervision of [MSc. Simon Schäfer](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:schaefer) and [Dr.-Ing. Bassam Alrifaee](https://embedded.rwth-aachen.de/doku.php?id=en:lehrstuhl:mitarbeiter:alrifaee) at the [Cyber-Physical Mobility Group](https://embedded.rwth-aachen.de/doku.php?id=en:forschung:mobility).
 
 I am **interested** in Autonomous Vehicles, Control and Robotics.
 
