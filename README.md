@@ -12,7 +12,10 @@ I have **experience** in Machine Learning, Embedded Systems and Microcontrollers
 * I am currently learning **Autonomous Vehicles Motion Planning, Communication and Control**.
 
 **Skills**:
+* Research
 * Problem Solving (Competitive Programming)
+* Coding
+* Debugging
 * Quick learning
 * Logical Thinking
 * Teaching
@@ -25,7 +28,6 @@ Please feel free to **contact** me for any projects suggestions or any advices o
 * [**GitHub**](https://github.com/HadiElnemr)
 * [**Gmail**](hadi.elnemr@gmail.com)
 * [**Facebook**](https://www.facebook.com/hadi.elnimr)
-
-My Website [**http://hadielnemr.github.io/**](http://hadielnemr.github.io/)
+* My Website [**http://hadielnemr.github.io/**](http://hadielnemr.github.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiElnemr&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
