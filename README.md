@@ -8,9 +8,10 @@ Grade: **1.0** according to the German grading scale (1.0 - 5.0) (1.0 = A (Very 
 
 I am **interested** in Autonomous Vehicles, Control and Robotics.
 
-I have **experience** in Machine Learning, Embedded Systems and Microcontrollers (ATMega, Raspberry Pi, ESP, Arduino), Robotics, Communication Protocols, MAVLink, Robot Operating System 
+I have **experience** in Autonomous Vehicles (Motion Planning, Control, Map Matching), Data Science, Machine Learning, Embedded Systems and Microcontrollers (ATMega, Raspberry Pi, ESP, Arduino), Robotics, Communication Protocols, MAVLink, Robot Operating System (ROS1, ROS2)
 
-* I am currently learning **Autonomous Vehicles Motion Planning, Communication and Control**.
+* I am currently learning **Autonomous Vehicles Sensor Data Fusion, Communication and Control**.
+* I am currently studying **Optimisation Techniques for Multi-cooperative Systems, Robotics, Advanced Mechatronics Engineering, Data Engineering and Sensor Technology**.
 
 **Skills**:
 * Research
