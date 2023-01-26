@@ -6,7 +6,7 @@ a **Mechatronics Engineering** student at the [**German University in Cairo**](h
 My bachelor thesis topic was **Lane-level Map Matching Algorithm for Model-scale Vehicles** and was done under the supervision of [MSc. Simon Schäfer](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:schaefer) and [Dr.-Ing. Bassam Alrifaee](https://embedded.rwth-aachen.de/doku.php?id=en:lehrstuhl:mitarbeiter:alrifaee) at the [Cyber-Physical Mobility Group](https://embedded.rwth-aachen.de/doku.php?id=en:forschung:mobility).
 Grade: **1.0** according to the German grading scale (1.0 - 5.0) (1.0 = A (Very Good))
 
-I am **interested** in Autonomous Vehicles, Control and Robotics.
+I am **interested** in Control, Optimisation, Autonomous Vehicles and Robotics.
 
 I have **experience** in Autonomous Vehicles (Motion Planning, Control, Map Matching), Data Science, Machine Learning, Embedded Systems and Microcontrollers (ATMega, Raspberry Pi, ESP, Arduino), Robotics, Communication Protocols, MAVLink, Robot Operating System (ROS, ROS2)
 
