@@ -11,7 +11,8 @@ I am **interested** in Control, Optimisation, Autonomous Vehicles and Robotics.
 I have **experience** in Autonomous Vehicles (Motion Planning, Control, Map Matching), Data Science, Machine Learning, Embedded Systems and Microcontrollers (ATMega, Raspberry Pi, ESP, Arduino), Robotics, Communication Protocols, MAVLink, Robot Operating System (ROS, ROS2)
 
 * I am currently learning **Autonomous Vehicles Sensor Data Fusion, Communication and Control**.
-* I am currently studying **Optimisation Techniques for Multi-cooperative Systems, Robotics, Advanced Mechatronics Engineering, Data Engineering and Sensor Technology**.
+<!-- * I am currently studying **Optimisation Techniques for Multi-cooperative Systems, Robotics, Advanced Mechatronics Engineering, Data Engineering and Sensor Technology**. -->
+* I am currently studying **Autonomous Systems, Reinforcement Learning and Optimal Control, Image Processing for Mechatronics Engineering, Bond Graph Technique and Finite Element Method**.
 
 **Skills**:
 * Research
@@ -19,7 +20,7 @@ I have **experience** in Autonomous Vehicles (Motion Planning, Control, Map Matc
 * Coding
 * Debugging
 * Quick learning
-* Logical Thinking
+* Logical and Creative Thinking
 * Teaching
 * Linux
 * Modeling
