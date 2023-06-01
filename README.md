@@ -12,7 +12,7 @@ I have **experience** in Autonomous Vehicles (Motion Planning, Control, Map Matc
 
 * I am currently learning **Autonomous Vehicles Sensor Data Fusion, Communication and Control**.
 <!-- * I am currently studying **Optimisation Techniques for Multi-cooperative Systems, Robotics, Advanced Mechatronics Engineering, Data Engineering and Sensor Technology**. -->
-* I am currently studying **Autonomous Systems, Reinforcement Learning and Optimal Control, Image Processing for Mechatronics Engineering, Bond Graph Technique and Finite Element Method**.
+* I am currently studying **Autonomous Systems, Reinforcement Learning and Optimal Control, Image Processing for Mechatronics Engineering, Bond Graph Technique and Finite Elements Method**.
 
 **Skills**:
 * Research
