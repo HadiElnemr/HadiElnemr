@@ -12,20 +12,31 @@ I am **interested** in Control, Optimisation, Autonomous Vehicles and Robotics.
 
 I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Control, Map Matching, Sensor Data Fusion), Reinforcement Learning and Optimal Control, Data Science and Machine Learning, Embedded Systems and Microcontrollers (ATMega, Raspberry Pi, ESP, Arduino), Robotics, Communication Protocols, MAVLink, Robot Operating System (ROS, ROS2), Image Processing for Mechatronics Engineering, Bond Graph modelling technique and Finite Elements Method.
 
-* I am currently learning **Autonomous Vehicles Sensor Data Fusion, Communication and Control**.
+* I am currently learning **Control, ROS2 and RVIZ2 in depth**.
+<!-- * I am currently learning **Autonomous Vehicles Sensor Data Fusion, Communication and Control**. -->
 <!-- * I am currently studying **Optimisation Techniques for Multi-cooperative Systems, Robotics, Advanced Mechatronics Engineering, Data Engineering and Sensor Technology**. -->
-* I am currently studying **Autonomous Systems, Reinforcement Learning and Optimal Control, Image Processing for Mechatronics Engineering, Bond Graph Technique and Finite Elements Method**.
+<!-- * I studied **Autonomous Systems, Reinforcement Learning and Optimal Control, Image Processing for Mechatronics Engineering, Bond Graph Technique and Finite Elements Method**. -->
+* I studied **Risk Assessment for Robotic Systems, Modeling and Analysis of Automation Systems, Autonomous Systems, Robotics, Reinforcement Learning and Optimal Control, Image Processing, Bond Graph Technique and Finite Elements Method**.
+* In Controls, I studied:
+  - Classical Control (SISO systems: Analysis, Bode Plots, Nyquist Plots, PID controllers, etc),
+  - Modern Control (Linear Systems: State/Output Feedback Control, Observers, Analysis: Observability, Controllability, etc),
+  - Mechatronics course (Embedded Systems with Z-domain analysis for Discrete systems) (applied PID and a Complementary Filter to build a self-balancing robot),
+  - Reinforcement Learning (RL Algorithms, Convex Optimisation, Optimal Control: MPC, LQR, etc.),
+  - Advanced Mechatronics (Hybrid Automaton: Discrete and Continuous Systems control, Robust control: Sliding Mode Control, Lyapunov based controllers, LQR, and more)
+  - Autonomous Systems (Kalman filter, Bayesian filter, Longitudinal and Lateral controller for autonomous vehicles, Lyapunov controllers again, etc.)
+* I am currently studying **Data-driven Model Predictive Control**.
 
 **Skills**:
 * Research
-* Problem Solving (Competitive Programming)
-* Coding
 * Debugging
-* Quick learning
-* Logical and Creative Thinking
 * Teaching
 * Linux
 * Modeling
+* Coding
+* Problem Solving (Competitive Programming)
+* Quick learning
+* Logical and Creative Thinking
+
 
 
 Please feel free to **contact** me for any projects suggestions or any advices on: 
