@@ -3,7 +3,7 @@ I am **_Hadi Elnemr_**,
 
 pursuing a M.Sc. degree in **Embedded Systems** in the Infotech program from the **University of Stuttgart** (starting October 2023).
 
-Took a B.Sc. degree  in **Mechatronics Engineering** from the [**German University in Cairo**](https://www.guc.edu.eg/) (GUC) (graduated on June 2023) 
+Took a B.Sc. degree  in **Mechatronics Engineering** from the [**German University in Cairo**](https://www.guc.edu.eg/) (GUC) (graduated on June 2023).
 Grade: **0.81** German scale GPA (0.7-5.0)
 
 Did my bachelor thesis at [**Rheinisch-Westfälische Technische Hochschule Aachen**](https://www.rwth-aachen.de) (RWTH Aachen) (March - September 2022).
