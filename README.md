@@ -3,7 +3,10 @@ I am **_Hadi Elnemr_**,
 
 pursuing a M.Sc. degree in **Embedded Systems** in the Infotech program from the **University of Stuttgart** (starting October 2023).
 
-Took a B.Sc. degree  in **Mechatronics Engineering** from the [**German University in Cairo**](https://www.guc.edu.eg/) (GUC) (graduated on June 2023, Grade: **0.81** German scale GPA (0.7-5.0)), did my bachelor project and thesis at [**Rheinisch-Westfälische Technische Hochschule Aachen**](https://www.rwth-aachen.de) (RWTH Aachen) (March - September 2022).
+Took a B.Sc. degree  in **Mechatronics Engineering** from the [**German University in Cairo**](https://www.guc.edu.eg/) (GUC) (graduated on June 2023) 
+Grade: **0.81** German scale GPA (0.7-5.0)
+
+Did my bachelor thesis at [**Rheinisch-Westfälische Technische Hochschule Aachen**](https://www.rwth-aachen.de) (RWTH Aachen) (March - September 2022).
 
 My bachelor thesis topic was **Lane-level Map Matching Algorithm for Model-scale Vehicles** and was done under the supervision of [MSc. Simon Schäfer](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:schaefer) and [Dr.-Ing. Bassam Alrifaee](https://embedded.rwth-aachen.de/doku.php?id=en:lehrstuhl:mitarbeiter:alrifaee) at the [Cyber-Physical Mobility Group](https://embedded.rwth-aachen.de/doku.php?id=en:forschung:mobility).
 Grade: **1.0** according to the German grading scale (1.0 - 5.0)
