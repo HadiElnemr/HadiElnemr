@@ -8,7 +8,7 @@ Grade: **0.81** German scale GPA (0.7-5.0)
 
 Did my bachelor thesis at [**Rheinisch-Westfälische Technische Hochschule Aachen**](https://www.rwth-aachen.de) (RWTH Aachen) (March - September 2022).
 
-My bachelor thesis topic was **Lane-level Map Matching Algorithm for Model-scale Vehicles** and was done under the supervision of [MSc. Simon Schäfer](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:schaefer) and [Dr.-Ing. Bassam Alrifaee](https://embedded.rwth-aachen.de/doku.php?id=en:lehrstuhl:mitarbeiter:alrifaee) at the [Cyber-Physical Mobility Group](https://embedded.rwth-aachen.de/doku.php?id=en:forschung:mobility).\
+My bachelor thesis topic was **Lane-level Map Matching Algorithm for Model-scale Vehicles** and was done under the supervision of [MSc. Simon Schäfer](https://www.embedded.rwth-aachen.de/cms/embedded/Der-Lehrstuhl/Mitarbeiteruebersicht/~bfleef/Simon-Schaefer/lidx/1/) and [Dr.-Ing. Bassam Alrifaee](https://www.unibw.de/cas/team/univ-prof-dr-ing-bassam-alrifaee) at the [Cyber-Physical Mobility Group](https://embedded.rwth-aachen.de/doku.php?id=en:forschung:mobility).\
 Grade: **1.0** according to the German grading scale (1.0 - 5.0)
 
 I am **interested** in Control, Optimisation, Autonomous Vehicles and Robotics.
