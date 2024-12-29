@@ -30,8 +30,23 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
     - Root-locus analysis and control system design,
     - Bode Plots,
     - Nyquist Plots
-  - **Modern Control Theory** (Linear Systems: State/Output Feedback Control, Observers, Analysis: Observability, Controllability, etc),
-  - Mechatronics course (Embedded Systems & Z-domain analysis for Discrete systems) (applied PID and a Complementary Filter to build a self-balancing robot),
+  - **Mechatronics course**
+    - Embedded Systems
+      - AVR Programming, Microcontrollers: Ex. ATMEGA328P,
+      - Sensors,
+      - Actuators.
+    - Z-domain analysis for Discrete systems,
+    - Fourier series, transform, and their discrete versions (CTFS, CTFT, DTFS, DTFT),
+    - Team Project: applied a PID controller and a Complementary Filter to build a self-balancing vehicle two-wheeled vehicle.
+  - **Modern Control Theory**
+    - State Space Fundamentals,
+    - Controllability,
+    - Observability,
+    - Stability
+    - Minimal Realizations,
+    - Design of Linear State Feedback / Output Feedback Control Laws,
+    - Observers and Observer-Based Compensators,
+    - Introduction to Optimal Control.
   - **Reinforcement Learning** (RL Algorithms, **Convex Optimisation**, Optimal Control: MPC, LQR, etc.),
   - Advanced Mechatronics (Hybrid Automaton: Discrete and Continuous Systems control, Robust control: Sliding Mode Control, Lyapunov based controllers, LQR, and more)
   - Autonomous Systems (Kalman filter, Bayesian filter, Longitudinal and Lateral controller for autonomous vehicles, Lyapunov controllers again, etc.)
