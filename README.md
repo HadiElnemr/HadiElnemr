@@ -82,8 +82,7 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
 Please feel free to **contact** me for any projects suggestions or any advices on: 
 * [**LinkedIn**](https://www.linkedin.com/in/hadi-elnemr/)
 * [**GitHub**](https://github.com/HadiElnemr)
-* [**Gmail**](hadi.elnemr@gmail.com)
-<!-- * [**Facebook**](https://www.facebook.com/hadi.elnimr) -->
+* [**Gmail**](mailto:hadi.elnemr@gmail.com)
 * My Website [**http://hadielnemr.github.io/**](http://hadielnemr.github.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiElnemr&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
