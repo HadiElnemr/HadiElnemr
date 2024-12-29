@@ -20,11 +20,19 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
 <!-- * I am currently studying **Optimisation Techniques for Multi-cooperative Systems, Robotics, Advanced Mechatronics Engineering, Data Engineering and Sensor Technology**. -->
 <!-- * I studied **Autonomous Systems, Reinforcement Learning and Optimal Control, Image Processing for Mechatronics Engineering, Bond Graph Technique and Finite Elements Method**. -->
 * I studied **Risk Assessment for Robotic Systems, Modeling and Analysis of Automation Systems, Autonomous Systems, Robotics, Reinforcement Learning and Optimal Control, Image Processing, Bond Graph Technique and Finite Elements Method**.
-* In Controls, I studied:
-  - Classical Control (SISO systems: Analysis, Bode Plots, Nyquist Plots, PID controllers, etc),
-  - Modern Control (Linear Systems: State/Output Feedback Control, Observers, Analysis: Observability, Controllability, etc),
-  - Mechatronics course (Embedded Systems with Z-domain analysis for Discrete systems) (applied PID and a Complementary Filter to build a self-balancing robot),
-  - Reinforcement Learning (RL Algorithms, Convex Optimisation, Optimal Control: MPC, LQR, etc.),
+* In **Control Engineering**, I studied:
+  - **Classical Control Theory**
+    - Closed and open loop control,
+    - Dynamics of mechanical systems,
+    - Mathematical modeling,
+    - Transient and steady-state response analysis,
+    - Stability analysis,
+    - Root-locus analysis and control system design,
+    - Bode Plots,
+    - Nyquist Plots
+  - **Modern Control Theory** (Linear Systems: State/Output Feedback Control, Observers, Analysis: Observability, Controllability, etc),
+  - Mechatronics course (Embedded Systems & Z-domain analysis for Discrete systems) (applied PID and a Complementary Filter to build a self-balancing robot),
+  - **Reinforcement Learning** (RL Algorithms, **Convex Optimisation**, Optimal Control: MPC, LQR, etc.),
   - Advanced Mechatronics (Hybrid Automaton: Discrete and Continuous Systems control, Robust control: Sliding Mode Control, Lyapunov based controllers, LQR, and more)
   - Autonomous Systems (Kalman filter, Bayesian filter, Longitudinal and Lateral controller for autonomous vehicles, Lyapunov controllers again, etc.)
 * I am currently doing my research project in **Data-driven Model Predictive Control**. The topic is **Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle**.
