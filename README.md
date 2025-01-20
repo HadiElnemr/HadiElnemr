@@ -1,15 +1,17 @@
 #### Hello there, 
 I am **_Hadi Elnemr_**,
 
-pursuing a M.Sc. degree in **Embedded Systems** in the Infotech program from the **University of Stuttgart** (starting October 2023).
+pursuing a M.Sc. degree in Information Technology (INFOTECH program) with focus on _Control Engineering_ in the **University of Stuttgart** (October 2023 - present).
+Doing my research project in _Data-driven Model Predictive Control_ at the [Institut für Systemtheorie und Regelungstechnik (IST)](https://www.ist.uni-stuttgart.de/).
+<!-- Grade: **1.3** German scale GPA (1.0-5.0) -->
 
-Took a B.Sc. degree  in **Mechatronics Engineering** from the [**German University in Cairo**](https://www.guc.edu.eg/) (GUC) (graduated on June 2023).\
-Grade: **0.81** German scale GPA (0.7-5.0)
+Took a B.Sc. degree  in **Mechatronics Engineering** from the [**German University in Cairo**](https://www.guc.edu.eg/) (GUC) (graduated on June 2023).
+<!-- Grade: **0.81** German scale GPA (0.7-5.0) -->
 
 Did my bachelor thesis at [**Rheinisch-Westfälische Technische Hochschule Aachen**](https://www.rwth-aachen.de) (RWTH Aachen) (March - September 2022).
 
 My bachelor thesis topic was **Lane-level Map Matching Algorithm for Model-scale Vehicles** and was done under the supervision of [MSc. Simon Schäfer](https://www.embedded.rwth-aachen.de/cms/embedded/Der-Lehrstuhl/Mitarbeiteruebersicht/~bfleef/Simon-Schaefer/lidx/1/) and [Dr.-Ing. Bassam Alrifaee](https://www.unibw.de/cas/team/univ-prof-dr-ing-bassam-alrifaee) at the [Cyber-Physical Mobility Group](https://cpm.embedded.rwth-aachen.de/).\
-Grade: **1.0** according to the German grading scale (1.0 - 5.0)
+<!-- Grade: **1.0** according to the German grading scale (1.0 - 5.0) -->
 
 I am **interested** in Control, Optimisation, Autonomous Vehicles and Robotics.
 
