@@ -2,7 +2,7 @@
 I am **_Hadi Elnemr_**,
 
 pursuing a M.Sc. degree in Information Technology (INFOTECH program) with focus on _Control Engineering_ in the **University of Stuttgart** (October 2023 - present).
-Doing my research project in _Data-driven Model Predictive Control_ at the [Institut für Systemtheorie und Regelungstechnik (IST)](https://www.ist.uni-stuttgart.de/).
+Doing my research project in _Data-driven Model Predictive Control_ at the [Institut für Systemtheorie und Regelungstechnik (IST)](https://www.ist.uni-stuttgart.de/). My research project is titled _Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle_.
 <!-- Grade: **1.3** German scale GPA (1.0-5.0) -->
 
 Took a B.Sc. degree  in **Mechatronics Engineering** from the [**German University in Cairo**](https://www.guc.edu.eg/) (GUC) (graduated on June 2023).
