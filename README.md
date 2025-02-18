@@ -66,7 +66,7 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
     - Longitudinal and Lateral controller for autonomous vehicles,
     - Lyapunov controllers again, etc.
       
-* I am currently doing my research project in **Data-driven Model Predictive Control**. The topic is **Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle**.
+* I am currently doing my research project in **Data-driven Model Predictive Control**. The topic is titled: **Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle**.
 
 **Skills**:
 * Research
