@@ -50,8 +50,8 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
     - Observers and Observer-Based Compensators,
     - Introduction to Optimal Control.
   - **Reinforcement Learning**
-    - RL Algorithms,
-    - **Convex Optimisation**,
+    - Bellman Equations, RL Algorithms, etc., 
+    - **Convex Optimisation** (Basics: Convex sets, Duality problem, etc.),
     - **Optimal Control**: MPC, LQR, etc.
   - **Advanced Mechatronics**
     - Hybrid Automaton:
@@ -61,10 +61,14 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
       - Lyapunov based controllers,
       - LQR, and more.
   - **Autonomous Systems**
+    - Non-linear Control
     - Kalman filter,
     - Bayesian filter,
     - Longitudinal and Lateral controller for autonomous vehicles,
     - Lyapunov controllers again, etc.
+
+  - Research Project under supervision of Yifan Xie titled "Implementation of a Data-Driven State-Feedback Controller and a Model Predictive Controller for a Self-Stabilizing Bicycle"
+    - 
       
 * I am currently doing my research project in **Data-driven Model Predictive Control**. The topic is titled: **Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle**.
 
