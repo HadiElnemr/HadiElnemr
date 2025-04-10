@@ -66,9 +66,8 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
     - Bayesian filter,
     - Longitudinal and Lateral controller for autonomous vehicles,
     - Lyapunov controllers again, etc.
-
-  - Research Project under supervision of Yifan Xie titled "Implementation of a Data-Driven State-Feedback Controller and a Model Predictive Controller for a Self-Stabilizing Bicycle"
-    - 
+  - Research Project under supervision of Yifan Xie titled "Implementation of a Data-Driven State-Feedback Controller and a Model Predictive Controller for a Self-Stabilizing Bicycle". 
+  
       
 * I am currently doing my research project in **Data-driven Model Predictive Control**. The topic is titled: **Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle**.
 
