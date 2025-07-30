@@ -4,7 +4,7 @@ I am **_Hadi Elnemr_**,
 pursuing a M.Sc. degree in Information Technology (INFOTECH program) with focus on _Control Engineering_ in the **University of Stuttgart** (October 2023 - present).
 Done my research project (part of M.Sc. curriculum) at the [Institut für Systemtheorie und Regelungstechnik (IST)](https://www.ist.uni-stuttgart.de/) which was titled "_Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle_" under the supervision of M.Sc. Yifan Xie.
 
-Doing my master's thesis at the IST under the supervision of Fabian Jakob where the title is "_Analysis of Time-Varying Optimisation Algorithms using LMI conditions_".
+<!-- Doing my master's thesis at the IST under the supervision of Fabian Jakob where the title is "_Analysis of Time-Varying Optimisation Algorithms using LMI conditions_". -->
 <!-- Grade: **1.3** German scale GPA (1.0-5.0) -->
 
 Took a B.Sc. degree  in **Mechatronics Engineering** from the [**German University in Cairo**](https://www.guc.edu.eg/) (GUC) (graduated on June 2023).
