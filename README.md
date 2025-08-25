@@ -1,11 +1,11 @@
 #### Hello there, 
 I am **_Hadi Elnemr_**,
 
-pursuing a M.Sc. degree in Information Technology (INFOTECH program) with focus on _Control Engineering_ in the **University of Stuttgart** (October 2023 - present).
+pursuing a M.Sc. degree in Information Technology (INFOTECH program) while focusing on _Control Engineering_ in the **University of Stuttgart** (October 2023 - present).
 
-Did my research project at the [Institut für Systemtheorie und Regelungstechnik (IST)](https://www.ist.uni-stuttgart.de/) which was titled "**_Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle_**" under the supervision of M.Sc. Yifan Xie.
+Doing my master's thesis at the [Institut für Systemtheorie und Regelungstechnik (IST)](https://www.ist.uni-stuttgart.de/) under the supervision of M.Sc. Fabian Jakob where the title is "**_Analysis of First-Order Algorithms for Time-Varying Optimisation_**".
 
-Doing my master's thesis at the IST under the supervision of M.Sc. Fabian Jakob where the title is "**_Analysis of Algorithms for Time-Varying Optimisation_**".
+Did my research project at the [IST](https://www.ist.uni-stuttgart.de/) which was titled "**_Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle_**" under the supervision of M.Sc. Yifan Xie.
 
 <!-- Grade: **1.3** German scale GPA (1.0-5.0) -->
 
@@ -70,10 +70,10 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
     - Bayesian filter,
     - Longitudinal and Lateral controller for autonomous vehicles,
     - Lyapunov controllers again, etc.
-  - Research Project under supervision of Yifan Xie titled "Implementation of a Data-Driven State-Feedback Controller and a Model Predictive Controller for a Self-Stabilizing Bicycle". 
+  - **Research Project** titled _"Implementation of a Data-Driven State-Feedback Controller and a Model Predictive Controller for a Self-Stabilizing Bicycle"_. 
   
       
-* I am currently doing my research project in **Data-driven Model Predictive Control**. The topic is titled: **Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle**.
+* Currently doing my Masters thesis in **Analysis of Optimisatoin Algorithms by Modelling as Dynamical Control Systems**. The topic is titled: **Analysis of First-Order Algorithms for Time-Varying Optimisation**.
 
 **Skills**:
 * Research
