@@ -77,18 +77,17 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
 
 **Skills**:
 * Research
-* Debugging
+* Coding and Debugging
 * Teaching
 * Linux
 * Modeling
-* Coding
+* Mathematics
 * Problem Solving (Competitive Programming)
 * Quick learning
 * Logical and Creative Thinking
 
 
 
-Please feel free to **contact** me for any projects suggestions or any advices on: 
 * [**LinkedIn**](https://www.linkedin.com/in/hadi-elnemr/)
 * [**GitHub**](https://github.com/HadiElnemr)
 * [**Gmail**](mailto:hadi.elnemr@gmail.com)
