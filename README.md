@@ -74,7 +74,7 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
   
       
 * Currently doing my Masters thesis in **Analysis of Optimisatoin Algorithms by Modelling as Dynamical Control Systems**. The topic is titled: **Analysis of First-Order Algorithms for Time-Varying Optimisation**.
-
+    
 **Skills**:
 * Research
 * Coding and Debugging
@@ -87,7 +87,7 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
 * Logical and Creative Thinking
 
 
-
+_Communication_:
 - [**LinkedIn**](https://www.linkedin.com/in/hadi-elnemr/)
 - [**GitHub**](https://github.com/HadiElnemr)
 - [**Gmail**](mailto:hadi.elnemr@gmail.com)
