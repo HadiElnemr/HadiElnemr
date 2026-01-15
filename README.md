@@ -3,7 +3,8 @@ I am **_Hadi Elnemr_**,
 
 pursuing a M.Sc. degree in Information Technology (INFOTECH program) while focusing on _Control Engineering_ in the **University of Stuttgart** (October 2023 - present).
 
-Doing my master's thesis at the [Institut für Systemtheorie und Regelungstechnik (IST)](https://www.ist.uni-stuttgart.de/) under the supervision of M.Sc. Fabian Jakob where the title is "**_Analysis of First-Order Algorithms for Time-Varying Optimisation_**".
+<!--Doing my master's thesis at the [Institut für Systemtheorie und Regelungstechnik (IST)](https://www.ist.uni-stuttgart.de/) under the supervision of M.Sc. Fabian Jakob where the title is "**_Analysis of First-Order Algorithms for Time-Varying Optimisation_**". -->
+Doing my master's thesis at the [Institut für Systemtheorie und Regelungstechnik (IST)](https://www.ist.uni-stuttgart.de/) under the supervision of M.Sc. Fabian Jakob where the title is "**_Improved Automated Generation of Tracking Bounds for First-Order Algorithms in Time-Varying Optimisation_**".
 
 Did my research project at the [IST](https://www.ist.uni-stuttgart.de/) which was titled "**_Implementation of a Data-Driven Model Predictive Controller for a Self-Stabilizing Bicycle_**" under the supervision of M.Sc. Yifan Xie.
 
