@@ -1,7 +1,7 @@
 #### Hello there, 
 I am **_Hadi Elnemr_**,
 
-a Doctoral candidate at the Cyber-Physical Systems group, TUM Heilbronn Campus. Research under the supervision of Prof. Amr Alanwar on Discrete Reachability Analysis. 
+a Doctoral candidate at the [Cyber-Physical Systems group](https://www.ce.cit.tum.de/ce/forschung/professuren/hncps/), TUM Heilbronn Campus. Research is under the supervision of [Prof. Amr Alanwar](https://sites.google.com/view/amr-alanwar/) on Discrete Reachability Analysis and its applications, using **Logical Zonotopes**.
 
 Took a M.Sc. degree in Information Technology (INFOTECH program), while doing research in _Control Theory_ at the **University of Stuttgart** (October 2023 - January 2026).
 
