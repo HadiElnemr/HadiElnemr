@@ -73,10 +73,10 @@ I have **experience** in Autonomous Vehicles and Systems (Motion Planning, Contr
     - Bayesian filter,
     - Longitudinal and Lateral controller for autonomous vehicles,
     - Lyapunov controllers again, etc.
-  - **Research Project** titled _"Implementation of a Data-Driven State-Feedback Controller and a Model Predictive Controller for a Self-Stabilizing Bicycle"_. 
   
-      
-* Currently doing my Masters thesis in **Analysis of Optimisatoin Algorithms by Modelling as Dynamical Control Systems**. The topic is titled: **Analysis of First-Order Algorithms for Time-Varying Optimisation**.
+Masters:
+* **Research Project** in _Data Driven MPC_. titled [_"Implementation of a Data-Driven State-Feedback Controller and a Model Predictive Controller for a Self-Stabilizing Bicycle"_](https://drive.google.com/file/d/1LbUTSiVSPgWTFdNVaj4VfxWa5FLXiFL3/view?usp=sharing).      
+* **Masters thesis** in _Analysis of Optimisatoin Algorithms by Modelling as Dynamical Control Systems_. The topic was titled: [**Improved automated generation of tracking bounds for first-order algorithms in time-varying optimisation**](https://doi.org/10.18419/opus-18098).
     
 **Skills**:
 * Research
